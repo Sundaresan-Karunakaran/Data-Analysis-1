@@ -14,7 +14,7 @@
 ## 4th April
   - Link analysis (link based on the ph) + similarities
   - Some basic ML algorithms:
-      - Linear regression
+      - Logistic regression
       - Decision Tree + Random Forest
       - SVM or Naive Bayes
   - We can analize both datasets with the mean for the null values or with removed rows 
